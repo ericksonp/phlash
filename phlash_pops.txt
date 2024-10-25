@@ -1,0 +1,12 @@
+Kenya_2015_
+Zambia_2015_
+SenegalForest_2015_
+SenegalDesert_2015_
+SaoTome_2015_
+VA-HPO_2019_mid
+MIA_2019_June
+VA-HPO_2020_early
+VA-CM_2017_early
+VA-CM_2018_early
+VA-CM_2020_early
+VA-CM_2019_mid
